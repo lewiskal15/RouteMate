@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Node modules
+# Node modules & Build output
 node_modules
 dist
 dist-ssr
@@ -18,21 +18,32 @@ dist-ssr
 !.vscode/extensions.json
 .idea
 .DS_Store
+Thumbs.db
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
 
-# Environment variables
+# Environment variables & Secrets (절대 커밋 금지)
 .env
 .env.local
 .env.*.local
+*.env
 
-# Capacitor & Android
+# Capacitor & Android build artifacts
 android/app/build
 android/build
 android/.gradle
 android/captures
 *.apk
 *.aab
+
+# Android Signing Keys (앱 서명 보안 키 - 절대 유출 금지)
+*.keystore
+*.jks
+google-services.json
+
+# Local user backups (개인 주소/경로 백업 파일)
+RouteMate_Backup_*.json
+*.backup.json
