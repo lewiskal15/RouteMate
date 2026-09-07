@@ -10,7 +10,7 @@
 | Gate | 승인 대상 산출물 (버전) | 현재 상태 | 승인자 | 승인일 | 핵심 검토 및 승인 조건 |
 |---|---|:---:|:---:|:---:|---|
 | **Gate 1** | `docs/intent.md` (v1.3.0) | **검토 대기** | - | - | REQ-01~13 정의, Non-Goals 표, 시간 단일화/경유지 분리 제안 검토 |
-| **Gate 2** | `docs/spec.md` (v1.3.1) | **검토 대기** | - | - | 화면 UI, 장소참조 대칭적용/삭제안내, 백업 사전검증 및 초기화 규격 검토 |
+| **Gate 2** | `docs/spec.md` (v1.3.1)<br>`docs/design.md` (v1.0.0) | **검토 대기** | - | - | 화면 UI, 토스+애플 디자인 시스템, 백업/참조 규격 검토 |
 | **Gate 3** | `docs/architecture.md` (v1.3.1)<br>`docs/api.md` (v1.3.1)<br>`docs/plan.md` (v1.3.0)<br>`docs/test-plan.md` (v1.3.0) | **검토 대기** | - | - | 지하철 lane[].name 정정, 백업 병합 트랜잭션, 프록시 이중 제한, 캐시 실시간 계산 검토 |
 | **Gate 4** | Phase 3 UI Mock Prototype | 미착수 | - | - | 프로젝트 스캐폴딩 및 가상 데이터 기반 2-Tap UX 검증 |
 | **Gate 5** | Phase 4~6 API 연동 검증 | 미착수 | - | - | 카카오/ODsay 실제 대중교통 경로, 주변교통 및 Cloudflare Worker 프록시 검증 |

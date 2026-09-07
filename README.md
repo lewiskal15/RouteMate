@@ -22,9 +22,10 @@
 4. [`docs/spec.md`](./docs/spec.md): [Gate 2 대상] 화면별 상세 기능, 인터랙션 및 비즈니스 규칙
 5. [`docs/architecture.md`](./docs/architecture.md): [Gate 3 대상] 시스템 계층도, Dexie DB, 통신/보안 아키텍처
 6. [`docs/api.md`](./docs/api.md): [Gate 3 대상] ODsay 및 카카오 연동 규격, 환승 변환 공식
-7. [`docs/plan.md`](./docs/plan.md): [Gate 3 대상] 단계별 구현 로드맵 및 체크리스트
-8. [`docs/test-plan.md`](./docs/test-plan.md): [Gate 3 대상] 요구사항 추적 매트릭스 및 필수 품질 검수 시나리오
-9. [`AGENTS.md`](./AGENTS.md) & [`AI_INSTRUCTIONS.md`](./AI_INSTRUCTIONS.md): AI 에이전트 행동 지침 및 구현 수칙
+7. [`docs/design.md`](./docs/design.md): [UI/UX] 토스+애플 스타일 디자인 시스템, 컴포넌트 규격, 컬러/타이포그래피
+8. [`docs/plan.md`](./docs/plan.md): [Gate 3 대상] 단계별 구현 로드맵 및 체크리스트
+9. [`docs/test-plan.md`](./docs/test-plan.md): [Gate 3 대상] 요구사항 추적 매트릭스 및 필수 품질 검수 시나리오
+10. [`AGENTS.md`](./AGENTS.md) & [`AI_INSTRUCTIONS.md`](./AI_INSTRUCTIONS.md): AI 에이전트 행동 지침 및 구현 수칙
 
 ---
 

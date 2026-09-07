@@ -26,6 +26,7 @@
 
 - **기획 및 요구사항**: [`docs/intent.md`](./docs/intent.md) (Gate 1)
 - **기능 명세서**: [`docs/spec.md`](./docs/spec.md) (Gate 2)
+- **UI/UX 디자인 시스템**: [`docs/design.md`](./docs/design.md) (Design Source of Truth)
 - **시스템 아키텍처**: [`docs/architecture.md`](./docs/architecture.md) (Gate 3)
 - **외부 API 연동 규격**: [`docs/api.md`](./docs/api.md) (Gate 3)
 - **구현 로드맵 및 일정**: [`docs/plan.md`](./docs/plan.md) (Gate 3)
